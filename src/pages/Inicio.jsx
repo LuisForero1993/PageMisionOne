@@ -17,17 +17,17 @@ export const Inicio = () => {
           <div className={styles.menuItem}>
             <img src="https://i.pravatar.cc/150" alt="Hamburguesa Clásica" />
             <h3>Hamburguesa Clásica</h3>
-            <p>Carne 100% res, queso derretido y pan artesanal.</p>
+            <p>Pan brioche con ajonjoli, carne de res, queso mozarella, papas fosforo y salsas en envoltura de papel antigraso.</p>
           </div>
           <div className={styles.menuItem}>
             <img src="https://i.pravatar.cc/150" alt="Papas con Queso" />
             <h3>Papas con Queso</h3>
-            <p>Crujientes papas bañadas en queso cheddar.</p>
+            <p>Crujientes papas bañadas en queso cheddar, reparadas con la receta tradicional, para una experiencia auténtica.</p>
           </div>
           <div className={styles.menuItem}>
             <img src="https://i.pravatar.cc/150" alt="Combo Familiar" />
-            <h3>Combo Familiar</h3>
-            <p>Ideal para compartir: 4 hamburguesas + papas + gaseosas.</p>
+            <h3>Aros de Cebolla</h3>
+            <p>Estos Aros de Cebolla son redondos, están sabrosos, crujientes y dorados, solos o acompañados de una de tus salsas favoritas.</p>
           </div>
         </div>
       </section>
