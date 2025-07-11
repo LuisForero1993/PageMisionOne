@@ -1,0 +1,37 @@
+.itemorder{
+display: flex;
+flex-direction: column;
+justify-content: space-between; /* separa izquierda y derecha */
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: right;
+    gap: 10px;
+}
+
+.containergral{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between; /* separa izquierda y derecha */
+    align-items: center;
+}
+
+.containerleft{
+    justify-content: left;
+    /* border: black 1px solid; */
+    text-align: center;
+}
+
+.containerrigth{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: right;
+    align-items: center;
+    gap: 10px;  
+    /* border: black 1px solid; */
+}
